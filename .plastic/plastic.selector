@@ -1,0 +1,3 @@
+repository "Cloud Repositories/eindopdracht3@9072116680706@cloud"
+  path "/"
+    smartbranch "/main/SFX for fruits"
