@@ -1,2 +1,2 @@
-# eindopdracht3
-Fruit Ninja Clone
+# Fruit Ninja VR
+Fruit Ninja inspired VR game made in Unity 
